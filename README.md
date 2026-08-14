@@ -1,7 +1,7 @@
 # E-Commerce-Analysis
 Power BI analysis of the Olist Brazilian e-commerce dataset with interactive sales, customer, seller, and product insights.
 
-1.Project Title:
+1. Project Title:
 Olist E-Commerce Sales Analytics Dashboard
 
 2. Short Description / Purpose:
