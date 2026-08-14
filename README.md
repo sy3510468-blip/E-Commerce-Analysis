@@ -2,7 +2,7 @@
 Power BI analysis of the Olist Brazilian e-commerce dataset with interactive sales, customer, seller, and product insights.
 
 1. Project Title:
-Olist E-Commerce Sales Analytics Dashboard
+Olist E-Commerce Sales Analytics Dashboard.
 
 2. Short Description / Purpose:
 Olist E-Commerce Sales Analytics Dashboard is a Power BI project designed to analyze e-commerce sales, customer behavior, product performance, and delivery trends. It provides interactive visualizations and key business insights to support data-driven decision-making.
@@ -24,7 +24,7 @@ Product/category performance analysis
 Location/state-wise performance analysis
 Customer review analysis
 Delivery performance tracking
-Interactive slicers and filters for deeper analysis
+Interactive slicers and filters for deeper analysis.
 
 6. Screenshots / Demos:
    https://github.com/sy3510468-blip/E-Commerce-Analysis/blob/main/olist%20ecommerce%20analysis%20dashboard%20screenshot.png
