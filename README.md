@@ -26,4 +26,4 @@ Delivery performance tracking
 Interactive slicers and filters for deeper analysis
 
 6. Screenshots / Demos
-   
+   https://github.com/sy3510468-blip/E-Commerce-Analysis/blob/main/olist%20ecommerce%20analysis%20dashboard%20screenshot.png
